@@ -1,0 +1,17 @@
+html, body{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: black;
+    margin: 0;
+}
+
+#welcome-section{
+    height: 100vh;
+}
+
+#locket{
+    width: 50vw;
+    top: 0;
+}
